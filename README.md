@@ -11,7 +11,7 @@ Univesidad de Granada
 
 **Titulo** : _______
 
-**Autor(es)** ______________
+**Autor(es)** Rosalía y Marta
 
 **Resumen** : _________
 
