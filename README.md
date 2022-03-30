@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## DESMINTIENDO MITOS  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,7 +9,7 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : DESMINTIENDO MITOS
 
 **Autor(es)** Rosalía y Marta
 
