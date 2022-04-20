@@ -34,7 +34,7 @@ Univesidad de Granada
 
 * Github: https://github.com/RosaliaPorcel/Personas-sin-hogar_2022
 * Protopie: https://cloud.protopie.io/p/43fdfd62f8
-* Página web
+* Página web (pensado para su presencia en páginas web de asociaciones 
 
 
 
@@ -103,7 +103,7 @@ Previamente a dichas técnicas, pueden realizarse ensayos con los trabajadores d
 
 Por el tiempo del que disponemos no se ha podido realizar más que la planificación y un prototipo del proyecto, en el que se pretende plasmar una idea de cómo sería el resultado final. Además, al ser un tema delicado, para la elaboración completa del proyecto dependemos de alguna asociación u organismo que trabaje con las personas en esta situación, ya que no todos ellos tienen por qué mostrarse en disposición de participar en una entrevista grabada en la que compartir sus experiencias.
 
-Para su mejora, podríamos plantear una expansión transmedia en otros medios como redes sociales (que faciliten el acceso al documental) o el mundo radiofónico, concretamente un podcast dedicado a ello. De este modo se conseguiría una mayor difusión del tema.
+Para su mejora, podríamos plantear una expansión transmedia en otros medios como redes sociales (que faciliten el acceso al documental) o el mundo radiofónico, concretamente un podcast dedicado a ello. De este modo se conseguiría una mayor difusión del tema. Además, habría que mejorar el interfaz para adaptarlo al dispositivo desde el que se acceda, de modo que si se hace desde un móvil aparezca, por ejemplo, en vertical. 
 
 A pesar de todo lo expuesto, resulta un proyecto interesante y necesario. Para su elaboración podría colaborar, como decimos, cualquier asociación u organismo que trabaje con personas sin hogar. Dado que dichas entidades suelen colaborar con proyectos de este estilo, creemos que su realización es bastante viable, y no descartamos su desarrollo completo en un futuro. 
 
@@ -111,40 +111,10 @@ Referencias y recursos:
 
 Jenkins, H. (2010). Transmedia Education: the 7 Principles Revisited. Henry Jenkins: Confessions o fan aca-fan. [En línea]. Disponible en: http://henryjenkins.org/blog/2010/06/transmedia_education_the_7_pri.html (Consulta: 18/12/2021).
 
-Manu Brabo [página web personal]. Recuperado el 20/04/2022. Disponible en: http://www.manu-brabo.com/bio
+Manu Brabo [página web personal]. Recuperado el 20/04/2022. Disponible en: http://www.manu-brabo.com/
 
-Maysun [página web personal]. Recuperado el 14/12/2020. Disponible en https://www.maysun.eu/bio
+María Contreras Coll [página web]. Recuperado el 20/04/2022. Disponible en: https://www.mariacontrerascoll.com/
 
-(...)
-
-
-
-
-
-
-----
-
-**Referencias y recursos utilizados** :
-
-* [Proceso UX](https://uxmastery.com/resources/process/)
-* [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
-* [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
-* [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
-
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
-
-
-
-
-
-
-
-
-
-
+Maysun [página web personal]. Recuperado el 20/04/2022. Disponible en https://www.maysun.eu/
 
 
