@@ -109,9 +109,11 @@ A pesar de todo lo expuesto, resulta un proyecto interesante y necesario. Para s
 
 Referencias y recursos: 
 
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
+Jenkins, H. (2010). Transmedia Education: the 7 Principles Revisited. Henry Jenkins: Confessions o fan aca-fan. [En línea]. Disponible en: http://henryjenkins.org/blog/2010/06/transmedia_education_the_7_pri.html (Consulta: 18/12/2021).
+
+Manu Brabo [página web personal]. Recuperado el 20/04/2022. Disponible en: http://www.manu-brabo.com/bio
+
+Maysun [página web personal]. Recuperado el 14/12/2020. Disponible en https://www.maysun.eu/bio
 
 (...)
 
