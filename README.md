@@ -14,7 +14,8 @@ Univesidad de Granada
 
 **Resumen** : En la sociedad existen muchos estereotipos sobre las personas sin hogar, y la mayoría de ellos son fruto de la desinformación. Este proyecto pretende mostrar la realidad de este colectivo para acabar con el desconocimiento a cerca de este tema, basándonos en la idea de que la concienciación sobre un problema es el primer paso para solucionarlo. 
 
-**logotipo** : ![logo tfm (4)](https://user-images.githubusercontent.com/102685922/164255686-cb8b853f-1751-4a83-b385-6cf0d5f54013.png) 
+**logotipo** :
+![logo tfm (4)](https://user-images.githubusercontent.com/102685922/164255686-cb8b853f-1751-4a83-b385-6cf0d5f54013.png) 
 
 **Slogan** : La concienciación sobre un problema es el primer paso para solucionarlo
 
